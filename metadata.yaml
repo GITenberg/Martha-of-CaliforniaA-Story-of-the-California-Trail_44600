@@ -14,6 +14,8 @@ creator:
 description: Twelve-year-old Martha describes her family's 1851 journey in a wagon
   train as it leaves Pike County, Missouri, and crosses rivers, deserts, and mountains
   to reach their new home in California.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44600#Martha-of-CaliforniaA-Story-of-the-California-Trail
 gutenberg_issued: '2014-01-06'
 gutenberg_type: Text
 identifiers:
