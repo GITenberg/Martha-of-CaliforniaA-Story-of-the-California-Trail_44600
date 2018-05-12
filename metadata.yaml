@@ -1,0 +1,32 @@
+_repo: Martha-of-CaliforniaA-Story-of-the-California-Trail_44600
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44600-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: Twelve-year-old Martha describes her family's 1851 journey in a wagon
+  train as it leaves Pike County, Missouri, and crosses rivers, deserts, and mountains
+  to reach their new home in California.
+gutenberg_issued: '2014-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'United States -- History -- 1849-1877 -- Juvenile fiction'
+- !lcsh 'Overland journeys to the Pacific -- Juvenile fiction'
+title: 'Martha of California: A Story of the California Trail'
+url: http://www.gutenberg.org/ebooks/44600
